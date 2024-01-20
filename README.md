@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hello, I'm Prince 👋</h1>
+<h1 align="center">Hello, I'm Prince 👋, welcome to my new Github account</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/princeajuzie/">
@@ -50,7 +50,7 @@ I'm proficient in a variety of languages and tools, including but not limited to
 
 ### 📊 &nbsp;GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=princeajuzie7&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
