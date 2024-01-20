@@ -8,13 +8,13 @@
   <a href="https://www.linkedin.com/in/princeajuzie/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://www.buymeacoffee.com/zed0" target="_blank">
+  <a href="https://www.buymeacoffee.com/princeajuzie" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
   </a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt="">
+  <img src="https://komarev.com/ghpvc/?username=princeajuzie7&style=flat-square&color=blue" alt="">
 </div>
 
 ---
