@@ -58,7 +58,10 @@ I'm proficient in a variety of languages and tools, including but not limited to
   <a href="https://app.daily.dev/princeajuzie"><img src="https://api.daily.dev/devcards/0ed525d5f92444fab3f1d4135b7b2a30.png?r=ypl" width="400" alt="princeajuzie's Dev Card"/></a>
   </div>
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeajuzie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeajuzie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
 </div>
 
@@ -68,7 +71,7 @@ I'm proficient in a variety of languages and tools, including but not limited to
 #### [Cinewave](https://github.com/Princeajuzie/cinewave)
 - Description: A Movie app that leverages the TMDB API.
 - Technologies Used: Next js, Typescript, Contex Api.
-- Demo: https://cinewaves.vercel.app/.
+- Demo: https://cinewaves.vercel.app/
 
 #### [Oravent](https://github.com/Princeajuzie/oravent)
 - Description: An Event booking app.
