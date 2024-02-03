@@ -61,7 +61,7 @@ I'm proficient in a variety of languages and tools, including but not limited to
   
   <div style="text-align: center;">
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeajuzie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
   </div>
 
 </div>
