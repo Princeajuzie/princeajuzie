@@ -56,15 +56,16 @@ I'm proficient in a variety of languages and tools, including but not limited to
     
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeajuzie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <a href="https://app.daily.dev/princeajuzie"><img src="https://api.daily.dev/devcards/0ed525d5f92444fab3f1d4135b7b2a30.png?r=ypl" width="400" alt="princeajuzie's Dev Card"/></a>
+   <a href="https://app.daily.dev/princeajuzie"><img src="https://api.daily.dev/devcards/0ed525d5f92444fab3f1d4135b7b2a30.png?r=ypl" width="400" alt="princeajuzie's Dev Card"/></a>
   </div>
   
   <div style="text-align: center;">
     
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeajuzie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
 </div>
+
 
 
 
