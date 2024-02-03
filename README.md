@@ -51,23 +51,16 @@ I'm proficient in a variety of languages and tools, including but not limited to
 ### 📊 &nbsp;GitHub Stats
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-
-<div>
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=princeajuzie&theme=highcontrast&background=000000)](https://git.io/streak-stats)
+  <div>
+    
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=princeajuzie&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princeajuzie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
-<div>
-  
 
-<a href="https://app.daily.dev/princeajuzie"><img src="https://api.daily.dev/devcards/0ed525d5f92444fab3f1d4135b7b2a30.png?r=ypl" width="400" alt="princeajuzie's Dev Card"/></a>
-</div>
-</div>
+  </div>
 
-
-</div>
-
-
-
+  <div>
+    <a href="https://app.daily.dev/princeajuzie"><img src="https://api.daily.dev/devcards/0ed525d5f92444fab3f1d4135b7b2a30.png?r=ypl" width="400" alt="princeajuzie's Dev Card"/></a>
+  </div>
 </div>
 
 ### 📝 &nbsp;Featured Projects
