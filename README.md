@@ -49,8 +49,7 @@ I'm proficient in a variety of languages and tools, including but not limited to
 </p>
 
 ### 📊 &nbsp;GitHub Stats
-<a align="right" href="https://app.daily.dev/alicalimli_devv"><img align="right" width="330" src="/devcard.svg" width="400" alt="Ali Calimli's Dev Card"/></a>
-
+  <a align="right" href="https://app.daily.dev/princeajuzie"><img src="https://api.daily.dev/devcards/0ed525d5f92444fab3f1d4135b7b2a30.png?r=ypl" width="400" alt="princeajuzie's Dev Card"/></a>
 ![](https://github-readme-stats.vercel.app/api?username=alicalimli&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alicalimli&theme=monokai&hide_border=true/)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alicalimli&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
