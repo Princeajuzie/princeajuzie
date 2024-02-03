@@ -50,7 +50,7 @@ I'm proficient in a variety of languages and tools, including but not limited to
 
 ### 📊 &nbsp;GitHub Stats
 
-<div style="display: flex; justify-content: space-around; gap: 10px; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
   <div>
     
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=princeajuzie&theme=highcontrast&background=000000)](https://git.io/streak-stats)
